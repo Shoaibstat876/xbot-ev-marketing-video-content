@@ -1,0 +1,67 @@
+XBOT EV TASK 2 - EMPLOYER QUESTIONS AND DISTINCTION-LEVEL ANSWERS
+
+1. WHAT WAS THE PURPOSE OF THIS TASK?
+
+The purpose was to create a 15-20 second AI-generated launch advertisement for XBOT EV. I treated it as more than a video-editing exercise: the objective was to transform the available product visuals and brand direction into a concise marketing asset that captures attention, presents the bike professionally and strengthens brand recall. The final advertisement is designed for mobile-first channels such as Instagram Reels, TikTok, YouTube Shorts, WhatsApp and paid social campaigns.
+
+2. HOW MANY TOOLS DID YOU USE?
+
+I used three core tools in the final production workflow:
+
+1. ChatGPT - requirement analysis, creative planning, script development, prompt iteration, content governance and documentation.
+2. Pika - AI image-to-video generation for the product scenes.
+3. FFmpeg - scene assembly, timing, reframing, colour treatment, typography, transitions, audio synchronization, compression and technical validation.
+
+I also explored ImagineArt during experimentation, but it was not essential to the locked final pipeline. I distinguish between tools explored and tools that directly produced the final deliverable.
+
+3. WHY DID YOU CHOOSE THESE TOOLS?
+
+Each tool solved a specific production need. ChatGPT helped translate the brief into a structured concept and time-coded script. Pika transformed static product visuals into moving scenes. FFmpeg provided deterministic control over timing, aspect ratio, encoding, audio and playback compatibility. This combination provided both creative generation and technical control without relying on a single one-click result.
+
+4. HOW DID YOU CREATE THE VIDEO?
+
+I first separated the mandatory requirements: a 15-20 second script, an AI-generated video and a short case study. I reviewed the brand direction, designed a launch narrative, generated multiple scene variations and evaluated each output for product visibility, consistency and usable motion. I rejected weak outputs, rebuilt the three-quarter and dashboard scenes, assembled the strongest footage, added controlled transitions and music, and validated the final export before submission.
+
+5. WHAT WAS THE CREATIVE CONCEPT?
+
+The concept was "The Future Has Arrived." A 3-2-1 countdown creates anticipation, followed by the product reveal, design showcase, intelligent dashboard and final brand promise: "Smarter Mobility. Stronger Future." The structure moves from attention to product interest and finally to brand recall.
+
+6. WHAT WAS THE BIGGEST CHALLENGE?
+
+The biggest challenge was maintaining product consistency across AI-generated footage while adapting wide source clips to a vertical 9:16 format. Two scenes contained large empty side panels and looked weaker than the rest. I rebuilt those sections using brand-coloured backgrounds and controlled reframing, removing unnecessary side space without cropping the bike or dashboard.
+
+7. HOW DID YOU MAINTAIN BRAND CONSISTENCY?
+
+I followed the supplied XBOT EV direction throughout the advertisement: midnight navy backgrounds, electric cyan highlights, white typography, futuristic lighting, premium framing and minimal technology-led messaging. The same visual hierarchy was maintained across the product, dashboard and logo scenes.
+
+8. HOW DID YOU ENSURE QUALITY?
+
+I performed creative and technical quality assurance. Creative checks covered narrative order, complete product visibility, typography, colours, pacing, transitions and the branded ending. Technical checks confirmed a 19.03-second runtime, 9:16 aspect ratio, 720 x 1280 resolution, 30 fps, H.264 Main Profile video, stereo AAC audio, YUV 4:2:0 colour format and successful complete-file decoding.
+
+9. WHY DID YOU AVOID TECHNICAL SPECIFICATIONS?
+
+Verified speed, range, charging time, battery and pricing information were not supplied. Adding invented values would create credibility and marketing risks. I therefore used approved brand-led messages such as "Premium," "Futuristic," "Intelligent" and "Designed from Every Angle." This demonstrates responsible AI use and prevents assumptions from being presented as facts.
+
+10. WHAT WAS YOUR PERSONAL CONTRIBUTION?
+
+I directed and completed the AI-assisted workflow. My contribution included interpreting the brief, developing the concept, structuring the script, designing and refining prompts, reviewing outputs, rejecting weak footage, selecting scenes, deciding timing and sequence, identifying consistency problems, directing corrections, validating the deliverables and preparing the submission documentation. AI generated parts of the footage, but human judgement controlled the final result.
+
+11. HOW DOES THIS BENEFIT XBOT EV?
+
+The final video gives XBOT EV a reusable mobile-first launch asset for product campaigns, social media, WhatsApp marketing, dealer presentations and website content. Its modular structure allows individual scenes, claims or calls to action to be replaced later without rebuilding the full advertisement, reducing the time and cost of future variations.
+
+12. HOW WOULD YOU MEASURE SUCCESS?
+
+For a live campaign, I would measure three-second view rate, completion rate, average watch time, engagement, click-through rate, test-ride enquiries, cost per qualified lead and enquiry-to-booking conversion. I would also A/B test alternative hooks and calls to action. Because campaign data was not part of this assessment, these are intended outcomes rather than claimed results.
+
+13. DID THE PROJECT REQUIRE PAID TOOLS?
+
+No paid editing cost was required. I used available generation credits and locally available post-production tools. Before commercial release, I would verify the licensing rights for the AI-generated footage, soundtrack and selected platform plan.
+
+14. WHAT WOULD YOU IMPROVE WITH OFFICIAL COMPANY RESOURCES?
+
+I would request official high-resolution photographs or 3D models, a verified model name, approved specifications and pricing, a vector logo, brand fonts and licensed music. I would then create channel-specific versions, connect the campaign to a measurable test-ride journey and optimize performance using A/B testing.
+
+15. GIVE A CONCISE PROFESSIONAL SUMMARY.
+
+I created a 19.03-second AI-assisted XBOT EV launch advertisement using ChatGPT, Pika and FFmpeg. I developed the creative concept and time-coded script, generated and evaluated multiple scenes, rebuilt weak sections, maintained brand consistency, avoided unsupported claims and technically validated the final MP4. The completed package includes the video, matching script, short case study, professional PDF and employer-focused project Q&A.

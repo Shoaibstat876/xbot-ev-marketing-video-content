@@ -1,0 +1,33 @@
+XBOT EV LAUNCH VIDEO - SHORT CASE STUDY
+
+PROJECT OBJECTIVE
+
+Create a premium 15-20 second launch advertisement for XBOT EV using AI-generated footage. The video needed to communicate a futuristic, intelligent identity while remaining suitable for mobile-first marketing.
+
+CREATIVE STRATEGY
+
+The film uses a focused launch structure: countdown, product reveal, design showcase, intelligent dashboard and brand close. The opening creates anticipation, the full-bike views establish the product, and the dashboard introduces the intelligent-mobility message. The finale reinforces the brand line, "Smarter Mobility. Stronger Future."
+
+PRODUCTION APPROACH
+
+AI-generated source clips were edited into a unified 9:16 sequence. Two weaker wide-format scenes were rebuilt for the final version. Empty side panels were removed without cropping the bike or dashboard. Layered blue backgrounds, improved contrast, controlled timing, refined typography, short crossfades and a synchronized electronic soundtrack created a consistent launch-film aesthetic.
+
+QUALITY AND GOVERNANCE
+
+The final master was checked for scene order, complete product visibility, readable typography, smooth transitions, duration, aspect ratio, frame rate, audio and playback compatibility. Marketing language was restricted to the supplied brand direction. Unsupported specifications and performance claims were excluded.
+
+TOOLS AND COST
+
+AI video-generation tools produced the source footage. FFmpeg was used for reframing, colour treatment, timing, transitions, audio synchronization and final encoding. Free generation credits and locally available editing tools were used; no paid editing cost was required.
+
+FINAL OUTPUT
+
+The final advertisement is 19.03 seconds long, 720 x 1280 pixels, 9:16 vertical and 30 fps, with H.264 Main Profile video and stereo AAC audio. It meets the required 15-20 second runtime and is optimized for reliable playback on browsers, Windows, Android and common social platforms.
+
+ORGANISATIONAL VALUE
+
+The result gives XBOT EV a reusable mobile-first launch asset for Instagram Reels, TikTok, YouTube Shorts, WhatsApp and paid social campaigns. Its modular structure also allows individual scenes or messages to be updated without rebuilding the entire advertisement.
+
+LIMITATION
+
+No live campaign data was available, so awareness, engagement and conversion improvements are intended outcomes rather than measured results. Production use should confirm final product specifications and obtain approval for all marketing claims.
